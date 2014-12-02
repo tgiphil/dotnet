@@ -7,6 +7,7 @@ Please sort projects alphabetically and provide a one-line description. GitHub/C
 * .NET Implementations
  * [.NET Core](https://github.com/dotnet/corefx) - Core .NET Framework
  * [Mono Project](https://github.com/mono/) - Cross-platform implementation of .NET Framework.
+ * [MOSA Project](https://github.com/mosa/MOSA-Project) - .NET compiler designed to support a .NET managed operating system.
  * [Cosmos](http://cosmos.codeplex.com/) - C# Open Source Managed Operating System, an operating system "construction kit".
  
 * Platforms
